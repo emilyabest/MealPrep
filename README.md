@@ -8,3 +8,5 @@ The largest barriers to college students maintaining a healthy diet include time
 - meal prep options for students who eat from university cafeterias
 - coupon collection and alerts from local grocery stores, particularly with the user's most purchased items
 - recognizing available ingredients from a picture and suggesting meals the user can prepare with the given ingredients
+
+Licensed with MIT License. 
